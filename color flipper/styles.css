@@ -1,0 +1,33 @@
+*{
+    letter-spacing: 0.25rem;
+}
+nav{
+    display: flex;
+}
+.bg-header{
+    background-color: #F4F4F4;
+}
+.move-down{
+    transform: translateY(20px);
+}
+.margin-left{
+    margin-left: 40px;
+}
+.btn{
+    margin: auto;
+}
+.center-main{
+    position: absolute;
+    top: 40%;
+    left: 31%;
+}
+.hex-color{
+    color: #61B3F7;
+}
+.color-text{
+    background-color: #6F7071;
+    padding: 50px;
+    margin: 10px;
+    border-radius: 20px;
+    color: #fff;
+}
